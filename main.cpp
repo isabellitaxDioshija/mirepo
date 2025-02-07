@@ -67,5 +67,7 @@ int main() {
     } else {
         printf("%.2f\n", resultado);
     }
+
     return 0;
+
 }
